@@ -8,7 +8,7 @@ First install these dependencies:
 sudo apt install dislocker
 ```
 
-Then run ```sudo ./unlock.sh```. Script will show you BitLocker drive that found.
+Then run ```sudo ./unlock.sh```. Script will show you BitLocker drive found.
 You will see somthing like this:
 
 ```
@@ -19,4 +19,4 @@ Device     Boot Start        End    Sectors   Size Id Type
 Enter Password:
 ```
 
-Now you can enter the password.
+Now you can unlock the drive after entering your password.
